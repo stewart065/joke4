@@ -1,0 +1,15 @@
+body{
+    background-color: grey;
+    
+}
+form{
+    padding: 22px;
+    margin: 0 auto;
+    justify-items: center;
+   
+}
+input{
+    padding: 5px;
+    margin: 10 auto;
+   
+}

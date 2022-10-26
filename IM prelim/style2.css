@@ -1,0 +1,48 @@
+body{
+   
+    display: flex;
+    justify-content: center;
+    height: 96vh;
+}
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+form{
+    width: 500px;
+    height: 300px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 10px 20px #000;
+    border-radius: 20px;
+    background: rgb(189, 185, 185);
+}
+label{
+    padding: 10px;
+    margin-left: 10px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 19px;
+    text-align: center;  
+
+   
+    
+}  
+.hl{
+    
+    font-weight: 800;
+    font-size: 12px;
+    margin-left: 230px;
+    margin-top: -18px;
+    text-align: center;  
+
+}
+input{
+    margin-left: 130px;
+    padding: 10px;
+    margin-bottom: 5px;
+   
+}
+.gl{
+    margin-left: 59px;
+}
